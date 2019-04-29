@@ -1,0 +1,38 @@
+
+main {
+  
+    width:940px;
+    margin:auto;
+}
+
+.title {
+    background-color: #33bebe;
+    color: #ffffff;
+    font-family: Arial;
+    padding-left:15px;
+    margin-top:100px;
+    margin: auto;
+    padding-top:15px;
+    width:940px;
+    font-size:35px;
+    
+}
+.imagen {
+    float: left;
+    width: 40%;
+    margin-top: 25px;
+    font-size:large;
+}
+.text {
+    display: flex;
+    font-size: 29px;
+    width:55%;
+    color: #7c8b88;
+    margin-top:-10px;
+    padding-left:15px;
+    font-family:Arial;
+    text-align:justify;
+    
+    /*position:absolute;  posicion absoluta en X y en Y*/
+    
+}

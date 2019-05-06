@@ -1,6 +1,33 @@
 .imagen{
-    position:absolute;
+    max-width: 100%;
+    /*position:absolute;
+    height: 100%;*/
+    top: 0px;
+    overflow: hidden;
+    pointer-events: auto;
+    left: 0px;
+    margin: 0 auto;
+
+    
 }
-hr{
-    color: #e8e8e7;
+
+main{
+    margin: 0 auto;
+    max-width: 50%;
+    background-color: white;
+    font-family: Arial;
+    color: gray;
+    font-size: 20px;  
+}
+.alinear{
+    text-indent: 2cm;
+}
+.linea{
+    background-color: #8bcc98;
+    padding-top: 10px;
+    margin-top: 20px; 
+}
+body{
+    background-color: #e8e8e7;
+
 }

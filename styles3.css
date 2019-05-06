@@ -1,0 +1,67 @@
+.logo{
+    float: left;
+    
+}
+h1{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #bcbbbb;
+    font-size: 40px;
+    margin-left: 60%;
+    margin-top:0px;
+    margin-bottom: 0px; 
+    width: 40%;
+    
+}
+h2{
+    text-align: right; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #bcbbbb;
+    font-size: 20px;
+    margin-left: 70%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 30%
+}
+hr{
+    padding-top: 3px;
+    background-color: #bcbbbb;
+}
+main{
+    margin-top: 65px;
+}
+.imagen31{
+    max-width: 100%;
+    top: 0px;
+    overflow: hidden;
+    pointer-events: auto;
+    left: 0px;
+    margin: 0 auto;
+}
+.p1{
+    float: left;
+    width: 30%;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.p2{
+    float: left;
+    width: 30%;
+    margin-left: 5%;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.p3{
+    float: right;
+    width: 30%;
+    margin-left: 5%;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+a{
+    color: black;
+    text-align: center;
+}
